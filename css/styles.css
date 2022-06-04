@@ -1,3 +1,29 @@
+body {
+    background-image: url("/img/fondodeinicio.jpg");
+    background-size: cover;
+}
+
+h1{
+    color: aliceblue;
+}
+
+.contenedor{
+    float: right;
+    height: 120px;
+    width: 500px;
+    
+}
+
+
+.container h2, p{
+    color: aliceblue;
+}
+
+.contenedor h2, p{
+    color: aliceblue;
+}
+
+
 .card{
     background: transparent;
     width: 100%;
